@@ -7,7 +7,6 @@
 ## 🌐 عرض الموقع مباشرة (Live Preview)
 
 
-*الرابط المباشر للمعاينة:**
 ## image project
 ![image here](https://github.com/abical-77/tutorial-project-5/blob/main/assets.png?raw=true)
 
