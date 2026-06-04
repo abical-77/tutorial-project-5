@@ -9,9 +9,7 @@
 
 *الرابط المباشر للمعاينة:**
 ## image project
-![image here](<img width="1871" height="892" alt="image" src="https://github.com/user-attachments/assets/e1d48974-7666-4756-9078-80e9dba7b5ba" />)
-![image here](https://github.com/abical-77/tutorial-project-5/blob/main/README.md)
-
+![image here](https://github.com/abical-77/tutorial-project-5/blob/main/assets.png?raw=true)
 
 
 ## 📁 هيكل المشروع
