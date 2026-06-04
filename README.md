@@ -6,11 +6,10 @@
 
 ## 🌐 عرض الموقع مباشرة (Live Preview)
 
-### *الرابط المباشر للمعاينة:**
 
 *الرابط المباشر للمعاينة:**
 ## image project
-![image here](file:///E:/My%20Projects/Project-3-(The%20Godfathe%20)/New%20folder%20(2)/index.html)
+![image here](<img width="1871" height="892" alt="image" src="https://github.com/user-attachments/assets/e1d48974-7666-4756-9078-80e9dba7b5ba" />)
  **[اضغط هنا لعرض الموقع مباشرة](https://8000-idh7vv18prka7182zkslk-80159e67.us2.manus.computer/)**
 
 
