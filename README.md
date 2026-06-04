@@ -18,16 +18,6 @@ The-Godfather-Coppola-Legacy/
 ├── index.html         
 ├── styles.css          
 ├── README.md    
-└── assets/             
-    ├── lgTVa5ELLgLV.jpg
-    ├── SSsjxhu1RSmZ.jpg
-    ├── WdSYXjVMILsAgnbU.jpg
-    ├── nlZbYicLnQaiLEIF.jpg
-    ├── UCyLgSymjDEzuVuh.jpg
-    ├── HxVXJvHisNrlEslE.jpg
-    ├── rgaIDFNXKDYoDtND.jpg
-    ├── qeSkGyGveXSOwugu.png
-    └── KWzBTxlbbdIIIODW.jpg
 
 
 
